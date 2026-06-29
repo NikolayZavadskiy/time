@@ -16,7 +16,7 @@ function updateTimer() {
     const seconds = Math.floor(diff / 1000) % 60;
 
     document.getElementById("timer").innerHTML =
-        `${days} д ${hours} ч ${minutes} мин ${seconds} сек`;
+        `${days} д ${hours} г ${minutes} хв ${seconds} с`;
 }
 
 updateTimer();
