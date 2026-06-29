@@ -1,4 +1,4 @@
-const target = new Date("2026-7-10T15:00:00");
+const target = new Date("2026-07-10T15:00:00");
 
 function updateTimer() {
 
