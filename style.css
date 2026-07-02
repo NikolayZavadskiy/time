@@ -5,7 +5,6 @@
   box-sizing: border-box;
 }
 
-/* Background — мягкий летний градиент */
 body {
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   min-height: 100vh;
@@ -68,7 +67,6 @@ p {
   transition: 0.2s ease;
 }
 
-/* лёгкий hover */
 p:hover {
   transform: translateY(-2px);
   border-color: #93c5fd;
